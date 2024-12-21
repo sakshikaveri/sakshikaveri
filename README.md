@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sakshi Kaveri</h1>
-<h3 align="center">WCurrently working as a Developer</h3>
+<h3 align="center">Currently working as a Developer</h3>
 
 - 📫 How to reach me **sakshikaveri2002@gmail.com**
 
